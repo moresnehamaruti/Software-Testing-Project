@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+     
+}
+.banner{
+   
+    height: 100vh;
+    background-image:url('A9.jpg');
+    background-position: center;
+    background-size: cover;
+    
+    text-align:center;
+    padding: 50px  100px;
+     
+}
+
+.content h1 {
+color:#69BE28;
+Font-size:40px;
+}
+
+.container{
+     width :100px;
+display:flex;
+justify-content:center;
+align-items:center;
+margin-top:30px;
+margin-left:300px;
+
+}
+
+
+
+
+.container .contactInfo
+{
+width="50px;
+display:flex;
+flex-direction:column;
+text-align:center;
+margin-left:650px;
+}
+
+
+.container .contactInfo .text h2
+{
+color:#F86ae8;
+font-size:35px;
+}
+
+
+.container .contactInfo .text p
+{
+font-size:20px;
+color:white;
+}
+
+
+
+
+
+
+
+
